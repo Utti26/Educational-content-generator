@@ -23,8 +23,8 @@ Ensure you have Python 3.8 or later installed on your system.
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_name>
+   git clone "https://github.com/Utti26/Educational-content-generator.git"
+   cd Educational-content-generator
    ```
 2. Install dependencies:
    ```sh
